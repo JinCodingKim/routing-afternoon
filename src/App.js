@@ -15,9 +15,6 @@ export default class App extends Component {
             <Link className="links" to="/about">
               About
             </Link>
-            <Link className="links" to="/classlist">
-              Class List
-            </Link>
           </div>
         </nav>
         {routes}
